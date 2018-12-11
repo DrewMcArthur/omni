@@ -66,7 +66,7 @@ At a glance, Omni offers the following capabilities:
 
 ## Decentralised Technology
 
-Omni is governed entirely its users, meaning no single entity has control over the platform, and it uses an accountability-based system to incentivise better behaviour. As a result, the academic community can become a fully autonomous organisation, without the need for a middleman or top-down incentive structure.
+Omni is governed entirely by its users, meaning no single entity has control over the platform, and it uses an accountability-based system to incentivise better behaviour. As a result, the academic community can become a fully autonomous organisation, without the need for a middleman or top-down incentive structure.
 
 > The Omni application will be hosted on a fully distributed, peer-to-peer protocol called [Holochain](http://www.holochain.org). It's a truly decentralised, democratic and secure Internet, with the capacity for large-scale social coordination.
 
